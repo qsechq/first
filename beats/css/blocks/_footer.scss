@@ -1,0 +1,20 @@
+footer{
+  position: absolute;
+  margin-bottom: -5.375rem;
+  bottom: 0;
+  right: 0;
+  padding: 1.25rem 0 1.25rem 5.375rem;
+  display: flex;
+  justify-content: space-around;
+}
+
+.phone--footer{
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.address{
+  font-family: Play;
+  font-style: normal;
+  font-size: 1.125rem;
+}
